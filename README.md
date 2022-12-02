@@ -6,4 +6,6 @@ Data analysis of written reviews was conducted using the ETL process to extract,
 ## Results
 Reviews for video games was the dataset used.
 
+Based on the table below the top 20 rows indicate there are only non-Vine reviews. Of all non-Vine reviews, 9 out of 20 reviews were 5-stars.
+
 ![Resources/vine_df](Resources/vine_df.png)
