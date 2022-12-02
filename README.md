@@ -16,3 +16,5 @@ Of all non-Vine reviews, 9 out of 20 reviews were 5-stars.
 
 ## Summary
 Based on the table in the results section, there is no positivity bias for reviews because none of the reviews were written by members of the Vine program. 
+
+Another analysis that can be conducted would be to view if the customers that wrote reviews for certain video games have previously reviewed other games. This analysis could be used to determine how many video games customers have purchased vs. how many times they have left a review. This could be useful information that can be used to find incentives for customers to pay to become a member of the Vine program or to understand why they are not currently a customer.
