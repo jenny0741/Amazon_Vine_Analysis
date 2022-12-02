@@ -15,4 +15,4 @@ Of all non-Vine reviews, 9 out of 20 reviews were 5-stars.
 ![Resources/vine_df](Resources/vine_df.png)
 
 ## Summary
-Based on the data, there is no positivity bias for reviews in the Vine program.
+Based on the data, there is no positivity bias for reviews in the Vine program. None of the reviews were written by members of the paid Vine program.
